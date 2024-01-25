@@ -33,7 +33,7 @@ SECRET_KEY = generate_secret_key()
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['.vercel.app', 'localhost', '127.0.0.1', '.railway.app']
+ALLOWED_HOSTS = ['.vercel.app', 'localhost', '127.0.0.1', '.railway.app', 'peaceful-waters-66122-6890f838c942.herokuapp.com']
 
 # Application definition
 
