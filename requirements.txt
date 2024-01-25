@@ -1,16 +1,12 @@
 asgiref==3.7.2
 certifi==2023.7.22
 charset-normalizer==3.3.1
-contourpy==1.1.1
-cycler==0.12.1
 Django==4.2.9
 django-appconf==1.0.6
 django-compressor==4.4
 fonttools==4.44.1
+gunicorn==21.2.0
 idna==3.4
-kiwisolver==1.4.5
-matplotlib==3.8.2
-numpy==1.26.2
 packaging==23.2
 Pillow==10.1.0
 pyparsing==3.1.1
@@ -19,6 +15,5 @@ rcssmin==1.1.1
 requests==2.31.0
 rjsmin==1.2.1
 setuptools==69.0.3
-six==1.16.0
 sqlparse==0.4.4
 urllib3==2.1.0
